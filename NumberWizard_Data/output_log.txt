@@ -1,0 +1,39 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     848 MB
+    Driver:   9.17.10.4229
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\super\Documents\Unity Project\NumberWizard\NumberWizard_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\super\Documents\Unity Project\NumberWizard\NumberWizard_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\super\Documents\Unity Project\NumberWizard\NumberWizard_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\super\Documents\Unity Project\NumberWizard\NumberWizard_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\super\Documents\Unity Project\NumberWizard\NumberWizard_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\super\Documents\Unity Project\NumberWizard\NumberWizard_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\super\Documents\Unity Project\NumberWizard\NumberWizard_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\super\Documents\Unity Project\NumberWizard\NumberWizard_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\super\Documents\Unity Project\NumberWizard\NumberWizard_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\super\Documents\Unity Project\NumberWizard\NumberWizard_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.235 seconds
+Platform assembly: C:\Users\super\Documents\Unity Project\NumberWizard\NumberWizard_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\super\Documents\Unity Project\NumberWizard\NumberWizard_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.134752 ms
+Level requested : Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.322598 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.265951 ms (FindLiveObjects: 0.062025 ms CreateObjectMapping: 0.056670 ms MarkObjects: 0.141900 ms  DeleteObjects: 0.004462 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1508 -> priority: 1 
